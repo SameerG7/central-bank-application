@@ -1,5 +1,6 @@
 # central-bank-application
 Java-based banking system allowing core banking functions like account management and fund transfers. Features JUnit 5 testing for robustness. Open for collaboration.
+
 The Bank App Simulation is a Java-based application that emulates key functionalities of a typical bank's operations, aimed at providing an interface for both customers and banking personnel. The core functionalities include customer and account management, transaction processing, and banking operations like deposit, withdrawal, and transfers.
 
 Features
